@@ -5,7 +5,7 @@ from turtle import*
 
 
 #step 1:  draw a square
-speed(10)
+speed(3)
 width(7)
 color("purple")
 begin_fill()
